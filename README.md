@@ -4,7 +4,7 @@ Forces Ethan to stop pausing the video after every word. The time is configurabl
 
 ## Installation
 
-1. Download or clone this repository (you can download as a zip file - I've left it this way so that you can verify the code and that I'm not trying to steal your shit!)
+1. Download or clone this repository. You can download as a zip file - I've left it this way so that you can verify the code and that I'm not trying to steal your shit! Just go to the green Code button above > Download Zip.
 2. Unzip the folder
 3. Open Chrome and go to `chrome://extensions/`
 4. Enable "Developer mode" in the top right corner
