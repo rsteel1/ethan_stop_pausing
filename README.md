@@ -1,6 +1,8 @@
 # With Peace and Love, Stop Pausing
 
-Forces Ethan to stop pausing the video after every word. The time is configurable.
+Forces Ethan to stop pausing the video after every word. With Peace and Love. The time is configurable.
+
+Y'all have provided me with endless hours of entertainment, and I appreciate you all. Thought I'd give something back. Much love from Scotland <3
 
 ## Installation
 
@@ -20,4 +22,4 @@ Forces Ethan to stop pausing the video after every word. The time is configurabl
 
 ## License
 
-MIT License - Peace and Love! ✌️❤️ (but also please for the love of god don't share my account with anyone, don't want doxxed)
+GOOF License - do what you want with it
